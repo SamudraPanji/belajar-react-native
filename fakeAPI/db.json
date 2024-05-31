@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "6728",
+      "name": "Samudra",
+      "email": "samudra@email.com",
+      "bidang": "Fullstack Developere"
+    },
+    {
+      "id": "e1e3",
+      "name": "Panji",
+      "email": "panji@email.com",
+      "bidang": "React Native Developer"
+    }
+  ]
+}
